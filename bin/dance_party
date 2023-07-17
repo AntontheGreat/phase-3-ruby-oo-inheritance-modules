@@ -2,6 +2,7 @@
 
 require_relative "../lib/kid"
 require_relative "../lib/dancer"
+require_relative "../lib/fancy_dance"
 
 angelina = Kid.new("Angelina")
 mikhail_baryshnikov = Dancer.new("Mikhail")
